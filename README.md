@@ -30,7 +30,8 @@ plt.show()
 plt.close(fig)                                                                                                                         
 print(np.min(plt_b-plt_c/255))                           
 
-This project is created by Sai Aneesh.
+By, 
+Sai Aneesh.
 
 
 
